@@ -45,3 +45,8 @@ pie(b)
 scf(2)
 pie([c],[1 1 1],["part1","part2","part3"]) //to divide parts from pie chart '1' divides the chart and '0' doesnt divides the chart
 
+
+////////////////////////////////
+//matplot
+
+Matplot([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]) //used to get colors assigned to numbers
